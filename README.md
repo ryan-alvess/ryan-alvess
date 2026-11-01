@@ -16,7 +16,7 @@
 
 ### Sobre Mim
 
-Sou estudante de **Engenharia de Software (6º período)** e cofundador na **ecodex**. Atuo com foco principal em **diagnóstico preciso e resolução de problemas complexos** — mapeando gargalos operacionais, investigando falhas de processos e estruturando a arquitetura ideal de solução.
+Sou estudante de **Engenharia de Software (6º período)** e cofundador na **ecodex**. Atuo com foco principal em **diagnóstico preciso e resolução de problemas complexos** mapeando gargalos operacionais, investigando falhas de processos e estruturando a arquitetura ideal de solução.
 
 Atualmente, aprofundo a minha especialização em **Engenharia de Dados e Inteligência Artificial**, conectando a visão estratégica de negócio à automação, fluxos de dados com Databricks, PySpark e SQL, e desenvolvimento de software.
 
