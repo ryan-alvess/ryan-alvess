@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./horizontal bg.jpg" alt="ecodex" width="480" />
+  <img src="https://raw.githubusercontent.com/ryan-alvess/ryan-alvess/main/horizontal%20bg.jpg" alt="ecodex" width="480" />
   <br /><br />
   <h1 align="center"><b>Ryan Alves</b></h1>
   <p align="center"><b>Estudante do 6º período de Engenharia de Software | Co-fundador na ecodex</b></p>
@@ -14,17 +14,17 @@
 
 ---
 
-### Visão & Posicionamento
+### Sobre Mim
 
-Minha principal força de atuação está no **diagnóstico preciso e na resolução de problemas complexos**. Investigo falhas de arquitetura, identifico gargalos e refatoro sistemas para transformar desafios técnicos em soluções eficientes, escaláveis e de alto valor.
+Sou estudante de **Engenharia de Software (6º período)** e cofundador na **ecodex**. Atuo com foco principal em **diagnóstico preciso e resolução de problemas complexos** — mapeando gargalos operacionais, investigando falhas de processos e estruturando a arquitetura ideal de solução.
 
-Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofundado em **Engenharia de Dados** e **Inteligência Artificial**, aplico metodologias sólidas para integrar tecnologia à rotina do negócio.
+Atualmente, aprofundo a minha especialização em **Engenharia de Dados e Inteligência Artificial**, conectando a visão estratégica de negócio à automação, fluxos de dados com Databricks, PySpark e SQL, e desenvolvimento de software.
 
 ---
 
 ### Tecnologias & Ferramentas
 
-#### Diagnóstico & Engenharia de Software
+#### Engenharia de Software & Desenvolvimento
 <p>
   <img src="https://img.shields.io/badge/Python-080C0B?style=for-the-badge&logo=python&logoColor=A3FF12" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-080C0B?style=for-the-badge&logo=javascript&logoColor=A3FF12" alt="JavaScript" />
@@ -40,15 +40,16 @@ Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofu
 <p>
   <img src="https://img.shields.io/badge/Databricks-080C0B?style=for-the-badge&logo=databricks&logoColor=A3FF12" alt="Databricks" />
   <img src="https://img.shields.io/badge/Apache_Spark-080C0B?style=for-the-badge&logo=apachespark&logoColor=A3FF12" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Pandas-080C0B?style=for-the-badge&logo=pandas&logoColor=A3FF12" alt="Pandas" />
   <img src="https://img.shields.io/badge/PostgreSQL-080C0B?style=for-the-badge&logo=postgresql&logoColor=A3FF12" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL-080C0B?style=for-the-badge&logo=sqlite&logoColor=A3FF12" alt="SQL" />
-  <img src="https://img.shields.io/badge/Gemini_API-080C0B?style=for-the-badge&logo=googlegemini&logoColor=A3FF12" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/LLMs_%26_IA-080C0B?style=for-the-badge&logo=probot&logoColor=A3FF12" alt="LLMs & IA" />
 </p>
 
 ---
 
 ### Atuação & Entregas na ecodex
 
-- **Liderança Técnica & Arquitetura:** Direcionamento técnico de produto com foco em código limpo, APIs REST e sistemas escaláveis.
-- **Diagnóstico & Otimização:** Investigação contínua de causa-raiz e solução de gargalos técnicos para alta disponibilidade.
-- **Engenharia de Dados & IA:** Estruturação de pipelines de dados (Databricks/PySpark) e modelos de IA conectados aos objetivos do negócio.
+- **Diagnóstico & Estratégia de Negócio:** Mapeamento de processos e identificação de onde a operação perde tempo ou recursos antes de escolher qualquer ferramenta.
+- **Liderança Técnica & Arquitetura:** Direcionamento técnico de projetos, alinhando a visão de negócio à execução de software limpo e escalável.
+- **Engenharia de Dados & IA:** Estruturação de pipelines no Databricks/PySpark, automações e integração de modelos de IA aplicados a problemas reais da operação.
