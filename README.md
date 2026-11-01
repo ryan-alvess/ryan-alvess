@@ -16,7 +16,7 @@
 
 Minha principal força de atuação está no **diagnóstico preciso e na resolução de problemas complexos**[cite: 4]. Investigo falhas de arquitetura, identifico gargalos e refatoro sistemas para transformar desafios técnicos em soluções eficientes, escaláveis e de alto valor.
 
-Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofundado em **Engenharia de Dados** e **Inteligência Artificial**, aplico metodologias sólidas para integrar tecnologia à rotina do negócio[cite: 3, 4].
+Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofundado em **Engenharia de Dados** e **Inteligência Artificial**, aplico metodologias sólidas para integrar tecnologia à rotina do negócio.
 
 ---
 
@@ -47,6 +47,6 @@ Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofu
 
 ###  Atuação & Entregas na ecodex
 
--  **Liderança Técnica & Arquitetura:** Direcionamento técnico de produto com foco em código limpo, APIs REST e sistemas escaláveis[cite: 3, 4].
--  **Diagnóstico & Otimização:** Investigação contínua de causa-raiz e solução de gargalos técnicos para alta disponibilidade[cite: 4].
--  **Engenharia de Dados & IA:** Estruturação de pipelines de dados (Databricks/PySpark) e modelos de IA conectados aos objetivos do negócio[cite: 3, 4].
+-  **Liderança Técnica & Arquitetura:** Direcionamento técnico de produto com foco em código limpo, APIs REST e sistemas escaláveis.
+-  **Diagnóstico & Otimização:** Investigação contínua de causa-raiz e solução de gargalos técnicos para alta disponibilidade.
+-  **Engenharia de Dados & IA:** Estruturação de pipelines de dados (Databricks/PySpark) e modelos de IA conectados aos objetivos do negócio.
