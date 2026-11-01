@@ -14,8 +14,6 @@
 
 ###  Visão & Posicionamento
 
-> **Diagnóstico primeiro.** Antes de qualquer código, ferramenta ou IA, entendo o problema[cite: 3, 4].
-
 Minha principal força de atuação está no **diagnóstico preciso e na resolução de problemas complexos**[cite: 4]. Investigo falhas de arquitetura, identifico gargalos e refatoro sistemas para transformar desafios técnicos em soluções eficientes, escaláveis e de alto valor.
 
 Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofundado em **Engenharia de Dados** e **Inteligência Artificial**, aplico metodologias sólidas para integrar tecnologia à rotina do negócio[cite: 3, 4].
