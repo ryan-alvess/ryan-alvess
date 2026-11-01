@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/ryan-alvess/ryan-alvess/main/horizontal%20bg.jpg" alt="ecodex" width="480" />
+  <img src="ecodex-logo-horizontal.png" alt="ecodex" width="220" />
   <br /><br />
   <h1 align="center"><b>Ryan Alves</b></h1>
   <p align="center"><b>Estudante do 6º período de Engenharia de Software | Co-fundador na ecodex</b></p>
