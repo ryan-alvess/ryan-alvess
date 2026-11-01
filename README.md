@@ -12,7 +12,7 @@
 
 ---
 
-### 🎯 Visão & Posicionamento
+###  Visão & Posicionamento
 
 > **Diagnóstico primeiro.** Antes de qualquer código, ferramenta ou IA, entendo o problema[cite: 3, 4].
 
@@ -22,9 +22,9 @@ Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofu
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
-#### 🔍 Diagnóstico & Engenharia de Software
+####  Diagnóstico & Engenharia de Software
 <p>
   <img src="https://img.shields.io/badge/Python-080C0B?style=for-the-badge&logo=python&logoColor=A3FF12" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-080C0B?style=for-the-badge&logo=javascript&logoColor=A3FF12" alt="JavaScript" />
@@ -36,7 +36,7 @@ Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofu
   <img src="https://img.shields.io/badge/Linux-080C0B?style=for-the-badge&logo=linux&logoColor=A3FF12" alt="Linux" />
 </p>
 
-#### ⚡ Dados, IA & Banco de Dados
+####  Dados, IA & Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/Databricks-080C0B?style=for-the-badge&logo=databricks&logoColor=A3FF12" alt="Databricks" />
   <img src="https://img.shields.io/badge/Apache_Spark-080C0B?style=for-the-badge&logo=apachespark&logoColor=A3FF12" alt="Apache Spark" />
@@ -47,8 +47,8 @@ Aliando essa mentalidade analítica à **Engenharia de Software**, estudo aprofu
 
 ---
 
-### 🚀 Atuação & Entregas na ecodex
+###  Atuação & Entregas na ecodex
 
-- 🟢 **Liderança Técnica & Arquitetura:** Direcionamento técnico de produto com foco em código limpo, APIs REST e sistemas escaláveis[cite: 3, 4].
-- 🟢 **Diagnóstico & Otimização:** Investigação contínua de causa-raiz e solução de gargalos técnicos para alta disponibilidade[cite: 4].
-- 🟢 **Engenharia de Dados & IA:** Estruturação de pipelines de dados (Databricks/PySpark) e modelos de IA conectados aos objetivos do negócio[cite: 3, 4].
+-  **Liderança Técnica & Arquitetura:** Direcionamento técnico de produto com foco em código limpo, APIs REST e sistemas escaláveis[cite: 3, 4].
+-  **Diagnóstico & Otimização:** Investigação contínua de causa-raiz e solução de gargalos técnicos para alta disponibilidade[cite: 4].
+-  **Engenharia de Dados & IA:** Estruturação de pipelines de dados (Databricks/PySpark) e modelos de IA conectados aos objetivos do negócio[cite: 3, 4].
